@@ -1,0 +1,5 @@
+
+Project: Latency-Aware Adaptive Control via Differentiable MPC
+Module: mpc_controller.py
+Description: This script implements the gradient-based optimization for the controller, accounting for time-varying latency.
+
